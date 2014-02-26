@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background: url("http://upload.wikimedia.org/wikipedia/commons/e/ee/Lake_of_Love_in_Bruges.JPG");
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    opacity:0.8;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    padding: 10px 10px 0px 10px;
+}
+
+ul {
+    padding: 10px;
+    margin: 0 auto;
+    background: black;
+    width: 100%;
+}
+li {
+    display: inline;
+    padding: 0px 55px 55px 55px;
+    font-size: 17px;
+    font-weight: bold;
+}
+a {
+    color: gray;
+    text-decoration: none;
+}
+img {
+    border-radius: 8px;
+    padding: 10px;
+}
+button {
+    display: block;
+}
